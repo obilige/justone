@@ -1,0 +1,501 @@
+,ranking,name,position,age,nation,club,value,matches,goals,assist,yellowcard,redcard,subsin,subsout,league
+0,1,Kylian Mbappé,Centre-Forward,23.0,France,Paris Saint-Germain,160.00,37,26,17,9,0,2,12,Ligue 1
+1,2,Erling Haaland,Centre-Forward,21.0,Norway,Borussia Dortmund,150.00,24,24,6,3,0,4,6,Bundesliga
+2,3,Vinicius Junior,Left Winger,21.0,Brazil,Real Madrid,100.00,39,17,14,7,0,2,21,LaLiga
+3,4,Mohamed Salah,Right Winger,29.0,Egypt,Liverpool FC,100.00,43,30,11,1,0,2,10,Premier League
+4,5,Harry Kane,Centre-Forward,28.0,England,Tottenham Hotspur,100.00,42,23,6,3,0,3,4,Premier League
+5,6,Romelu Lukaku,Centre-Forward,28.0,Belgium,Chelsea FC,100.00,34,12,2,0,0,10,7,Premier League
+6,7,Bruno Fernandes,Attacking Midfield,27.0,Portugal,Manchester United,90.00,40,10,14,7,0,5,13,Premier League
+7,8,Kevin De Bruyne,Attacking Midfield,30.0,Belgium,Manchester City,90.00,33,11,8,2,0,6,12,Premier League
+8,9,Neymar,Left Winger,30.0,Brazil,Paris Saint-Germain,90.00,21,5,5,5,0,1,8,Ligue 1
+9,10,Phil Foden,Central Midfield,21.0,England,Manchester City,85.00,34,11,8,1,0,7,13,Premier League
+10,11,Jadon Sancho,Left Winger,22.0,England,Manchester United,85.00,33,5,3,0,0,10,14,Premier League
+11,12,Dusan Vlahovic,Centre-Forward,22.0,Serbia,Juventus FC,85.00,37,27,8,4,0,3,9,Serie A
+12,13,Marcus Rashford,Left Winger,24.0,England,Manchester United,85.00,26,5,2,3,0,11,13,Premier League
+13,14,Joshua Kimmich,Defensive Midfield,27.0,Germany,Bayern Munich,85.00,30,3,9,3,0,0,4,Bundesliga
+14,15,Raheem Sterling,Left Winger,27.0,England,Manchester City,85.00,36,14,5,1,0,12,6,Premier League
+15,16,Pedri,Central Midfield,19.0,Spain,FC Barcelona,80.00,20,3,1,1,0,3,9,LaLiga
+16,17,Trent Alexander-Arnold,Right-Back,23.0,England,Liverpool FC,80.00,35,2,17,2,0,0,5,Premier League
+17,18,Jack Grealish,Left Winger,26.0,England,Manchester City,80.00,30,4,3,2,0,5,12,Premier League
+18,19,Sadio Mané,Left Winger,29.0,Senegal,Liverpool FC,80.00,43,17,4,6,0,3,12,Premier League
+19,20,Heung-min Son,Left Winger,29.0,"Korea, South",Tottenham Hotspur,80.00,36,14,7,2,0,6,13,Premier League
+20,21,Jude Bellingham,Central Midfield,18.0,England,Borussia Dortmund,75.00,38,6,13,9,0,1,9,Bundesliga
+21,22,Declan Rice,Defensive Midfield,23.0,England,West Ham United,75.00,39,4,4,9,0,2,2,Premier League
+22,23,Mason Mount,Attacking Midfield,23.0,England,Chelsea FC,75.00,42,8,12,2,0,12,12,Premier League
+23,24,Rúben Dias,Centre-Back,24.0,Portugal,Manchester City,75.00,35,2,4,6,0,3,3,Premier League
+24,25,Bernardo Silva,Attacking Midfield,27.0,Portugal,Manchester City,75.00,40,10,4,5,0,3,10,Premier League
+25,26,Marquinhos,Centre-Back,27.0,Brazil,Paris Saint-Germain,75.00,32,3,1,3,0,0,0,Ligue 1
+26,27,Florian Wirtz,Attacking Midfield,18.0,Germany,Bayer 04 Leverkusen,70.00,31,10,14,3,0,4,19,Bundesliga
+27,28,João Félix,Second Striker,22.0,Portugal,Atlético de Madrid,70.00,31,8,6,3,0,13,13,LaLiga
+28,29,Alphonso Davies,Left-Back,21.0,Canada,Bayern Munich,70.00,23,0,6,2,0,1,9,Bundesliga
+29,30,Lautaro Martínez,Centre-Forward,24.0,Argentina,Inter Milan,70.00,39,16,2,6,0,7,29,Serie A
+30,31,Achraf Hakimi,Right-Back,23.0,Morocco,Paris Saint-Germain,70.00,37,5,5,7,1,3,4,Ligue 1
+31,32,Rodri,Defensive Midfield,25.0,Spain,Manchester City,70.00,34,3,1,7,0,1,6,Premier League
+32,33,Mikel Oyarzabal,Left Winger,24.0,Spain,Real Sociedad,70.00,34,15,4,1,1,6,10,LaLiga
+33,34,Federico Chiesa,Right Winger,24.0,Italy,Juventus FC,70.00,18,4,4,0,0,3,10,Serie A
+34,35,Frenkie de Jong,Central Midfield,24.0,Netherlands,FC Barcelona,70.00,37,4,5,7,0,4,13,LaLiga
+35,36,Matthijs de Ligt,Centre-Back,22.0,Netherlands,Juventus FC,70.00,35,2,0,3,0,1,1,Serie A
+36,37,Kai Havertz,Attacking Midfield,22.0,Germany,Chelsea FC,70.00,36,12,5,5,0,9,11,Premier League
+37,38,Sergej Milinković-Savić,Central Midfield,27.0,Serbia,SS Lazio,70.00,41,9,10,5,0,6,9,Serie A
+38,39,Nicolò Barella,Central Midfield,25.0,Italy,Inter Milan,70.00,38,2,10,7,1,1,20,Serie A
+39,40,Leroy Sané,Left Winger,26.0,Germany,Bayern Munich,70.00,38,14,15,3,0,8,18,Bundesliga
+40,41,Serge Gnabry,Right Winger,26.0,Germany,Bayern Munich,70.00,36,13,9,0,0,11,16,Bundesliga
+41,42,Leon Goretzka,Central Midfield,27.0,Germany,Bayern Munich,70.00,18,2,2,0,0,0,9,Bundesliga
+42,43,Bukayo Saka,Right Midfield,20.0,England,Arsenal FC,65.00,33,10,5,4,0,3,16,Premier League
+43,44,Federico Valverde,Central Midfield,23.0,Uruguay,Real Madrid,65.00,33,1,1,2,0,14,8,LaLiga
+44,45,Christopher Nkunku,Attacking Midfield,24.0,France,RB Leipzig,65.00,40,26,15,2,0,3,15,Bundesliga
+45,46,Gianluigi Donnarumma,Goalkeeper,23.0,Italy,Paris Saint-Germain,65.00,20,0,0,3,0,0,0,Ligue 1
+46,47,Andrew Robertson,Left-Back,28.0,Scotland,Liverpool FC,65.00,34,1,13,5,1,3,3,Premier League
+47,48,Milan Skriniar,Centre-Back,27.0,Slovakia,Inter Milan,65.00,38,4,0,4,0,0,0,Serie A
+48,49,Raphaël Varane,Centre-Back,28.0,France,Manchester United,65.00,25,0,1,1,0,3,3,Premier League
+49,50,Thibaut Courtois,Goalkeeper,29.0,Belgium,Real Madrid,65.00,40,0,0,1,0,0,0,LaLiga
+50,51,Gavi,Central Midfield,17.0,Spain,FC Barcelona,60.00,40,2,5,10,1,10,22,LaLiga
+51,52,Ansu Fati,Left Winger,19.0,Spain,FC Barcelona,60.00,10,5,1,0,0,6,5,LaLiga
+52,53,Jules Koundé,Centre-Back,23.0,France,Sevilla FC,60.00,36,1,1,3,2,3,1,LaLiga
+53,54,Victor Osimhen,Centre-Forward,23.0,Nigeria,SSC Napoli,60.00,25,15,4,5,1,5,12,Serie A
+54,55,Éder Militão,Centre-Back,24.0,Brazil,Real Madrid,60.00,39,2,2,6,1,0,1,LaLiga
+55,56,Gabriel Jesus,Centre-Forward,24.0,Brazil,Manchester City,60.00,29,6,10,2,0,10,7,Premier League
+56,57,Diogo Jota,Centre-Forward,25.0,Portugal,Liverpool FC,60.00,41,20,4,6,0,10,20,Premier League
+57,58,Alessandro Bastoni,Centre-Back,22.0,Italy,Inter Milan,60.00,37,1,3,6,0,1,15,Serie A
+58,59,Marcos Llorente,Central Midfield,27.0,Spain,Atlético de Madrid,60.00,30,0,3,4,0,1,8,LaLiga
+59,60,Wilfred Ndidi,Defensive Midfield,25.0,Nigeria,Leicester City,60.00,35,2,1,6,0,2,4,Premier League
+60,61,Kingsley Coman,Right Winger,25.0,France,Bayern Munich,60.00,27,7,6,2,0,6,17,Bundesliga
+61,62,Fabinho,Defensive Midfield,28.0,Brazil,Liverpool FC,60.00,35,6,1,5,0,4,6,Premier League
+62,63,João Cancelo,Right-Back,27.0,Portugal,Manchester City,60.00,39,3,8,7,0,1,3,Premier League
+63,64,Jan Oblak,Goalkeeper,29.0,Slovenia,Atlético de Madrid,60.00,41,0,0,2,0,0,0,LaLiga
+64,65,Alisson,Goalkeeper,29.0,Brazil,Liverpool FC,60.00,38,0,1,0,0,0,0,Premier League
+65,66,Lionel Messi,Right Winger,34.0,Argentina,Paris Saint-Germain,60.00,26,7,11,1,0,2,2,Ligue 1
+66,67,Eduardo Camavinga,Central Midfield,19.0,France,Real Madrid,55.00,39,4,1,9,0,23,9,LaLiga
+67,68,Jamal Musiala,Attacking Midfield,19.0,Germany,Bayern Munich,55.00,33,6,6,2,0,17,10,Bundesliga
+68,69,Reece James,Right-Back,22.0,England,Chelsea FC,55.00,26,6,7,5,1,6,3,Premier League
+69,70,Moussa Diaby,Left Winger,22.0,France,Bayer 04 Leverkusen,55.00,35,16,9,9,0,1,14,Bundesliga
+70,71,Richarlison,Centre-Forward,24.0,Brazil,Everton FC,55.00,23,5,3,6,0,3,6,Premier League
+71,72,Fabián Ruiz,Central Midfield,25.0,Spain,SSC Napoli,55.00,31,6,4,5,0,4,13,Serie A
+72,73,Youri Tielemans,Central Midfield,24.0,Belgium,Leicester City,55.00,37,7,3,2,0,3,9,Premier League
+73,74,Virgil van Dijk,Centre-Back,30.0,Netherlands,Liverpool FC,55.00,39,3,1,2,0,0,0,Premier League
+74,75,Paul Pogba,Central Midfield,29.0,France,Manchester United,55.00,24,1,9,7,1,5,9,Premier League
+75,76,Marco Verratti,Central Midfield,29.0,Italy,Paris Saint-Germain,55.00,26,2,1,12,0,1,10,Ligue 1
+76,77,David Alaba,Centre-Back,29.0,Austria,Real Madrid,55.00,39,2,4,4,0,0,3,LaLiga
+77,78,Jonathan David,Centre-Forward,22.0,Canada,LOSC Lille,50.00,39,17,0,2,0,4,20,Ligue 1
+78,79,Mason Greenwood,Right Winger,20.0,England,Manchester United,50.00,24,6,2,2,0,4,14,Premier League
+79,80,Amine Gouiri,Centre-Forward,22.0,France,OGC Nice,50.00,38,14,10,4,0,4,16,Ligue 1
+80,81,Pau Torres,Centre-Back,25.0,Spain,Villarreal CF,50.00,38,5,0,4,0,0,1,LaLiga
+81,82,Carlos Soler,Central Midfield,25.0,Spain,Valencia CF,50.00,30,11,5,4,0,6,8,LaLiga
+82,83,Rafael Leão,Left Winger,22.0,Portugal,AC Milan,50.00,35,11,8,4,0,6,20,Serie A
+83,84,Arnaut Danjuma,Left Winger,25.0,Netherlands,Villarreal CF,50.00,28,13,4,2,0,6,12,LaLiga
+84,85,Mikel Merino,Central Midfield,25.0,Spain,Real Sociedad,50.00,35,4,3,8,0,0,9,LaLiga
+85,86,James Maddison,Attacking Midfield,25.0,England,Leicester City,50.00,40,13,7,6,0,12,15,Premier League
+86,87,Ferland Mendy,Left-Back,26.0,France,Real Madrid,50.00,26,1,2,7,0,2,7,LaLiga
+87,88,Lucas Hernández,Centre-Back,26.0,France,Bayern Munich,50.00,29,0,1,8,0,1,13,Bundesliga
+88,89,José María Giménez,Centre-Back,27.0,Uruguay,Atlético de Madrid,50.00,28,0,1,8,1,1,5,LaLiga
+89,90,Ederson,Goalkeeper,28.0,Brazil,Manchester City,50.00,36,0,0,3,0,0,1,Premier League
+90,91,N'Golo Kanté,Defensive Midfield,31.0,France,Chelsea FC,50.00,31,2,4,2,0,9,11,Premier League
+91,92,Piotr Zielinski,Attacking Midfield,27.0,Poland,SSC Napoli,50.00,36,7,5,2,0,5,23,Serie A
+92,93,Timo Werner,Centre-Forward,26.0,Germany,Chelsea FC,50.00,29,8,4,1,0,13,8,Premier League
+93,94,Antoine Griezmann,Second Striker,31.0,France,Atlético de Madrid,50.00,29,8,5,2,1,7,14,LaLiga
+94,95,Robert Lewandowski,Centre-Forward,33.0,Poland,Bayern Munich,50.00,37,45,4,2,0,0,6,Bundesliga
+95,96,Casemiro,Defensive Midfield,30.0,Brazil,Real Madrid,50.00,38,0,4,14,0,2,8,LaLiga
+96,97,Theo Hernández,Left-Back,24.0,France,AC Milan,48.00,33,4,10,7,1,2,2,Serie A
+97,98,Harry Maguire,Centre-Back,29.0,England,Manchester United,48.00,31,2,0,7,0,1,2,Premier League
+98,99,Ferran Torres,Right Winger,22.0,Spain,FC Barcelona,45.00,22,10,6,1,0,1,10,LaLiga
+99,100,Dayot Upamecano,Centre-Back,23.0,France,Bayern Munich,45.00,30,1,4,6,0,4,3,Bundesliga
+100,101,Tammy Abraham,Centre-Forward,24.0,England,AS Roma,45.00,40,23,4,9,0,3,16,Serie A
+101,102,Diego Carlos,Centre-Back,29.0,Brazil,Sevilla FC,45.00,37,3,0,5,0,1,4,LaLiga
+102,103,Caglar Söyüncü,Centre-Back,25.0,Turkey,Leicester City,45.00,38,1,0,6,0,1,2,Premier League
+103,104,Christian Pulisic,Right Winger,23.0,United States,Chelsea FC,45.00,28,6,4,2,0,12,8,Premier League
+104,105,Dominic Calvert-Lewin,Centre-Forward,25.0,England,Everton FC,45.00,11,3,1,2,0,2,4,Premier League
+105,106,Fikayo Tomori,Centre-Back,24.0,England,AC Milan,45.00,31,1,0,4,0,2,2,Serie A
+106,107,Franck Kessié,Central Midfield,25.0,Cote d'Ivoire,AC Milan,45.00,35,7,1,1,0,6,9,Serie A
+107,108,Dani Olmo,Attacking Midfield,23.0,Spain,RB Leipzig,45.00,20,4,5,1,0,10,10,Bundesliga
+108,109,Lorenzo Pellegrini,Attacking Midfield,25.0,Italy,AS Roma,45.00,30,11,5,3,0,4,11,Serie A
+109,110,Tomas Soucek,Defensive Midfield,27.0,Czech Republic,West Ham United,45.00,43,6,1,3,0,3,4,Premier League
+110,111,Ángel Correa,Second Striker,27.0,Argentina,Atlético de Madrid,45.00,40,12,6,4,1,17,16,LaLiga
+111,112,Aymeric Laporte,Centre-Back,27.0,Spain,Manchester City,45.00,31,3,0,6,1,1,6,Premier League
+112,113,Memphis Depay,Centre-Forward,28.0,Netherlands,FC Barcelona,45.00,30,11,2,4,0,7,4,LaLiga
+113,114,Jorginho,Defensive Midfield,30.0,Italy,Chelsea FC,45.00,39,9,3,5,0,6,13,Premier League
+114,115,Kalidou Koulibaly,Centre-Back,30.0,Senegal,SSC Napoli,45.00,32,2,3,7,1,0,1,Serie A
+115,116,Marc-André ter Stegen,Goalkeeper,29.0,Germany,FC Barcelona,45.00,39,0,0,3,0,0,1,LaLiga
+116,117,Mateo Kovacic,Central Midfield,27.0,Croatia,Chelsea FC,45.00,36,2,5,6,0,8,14,Premier League
+117,118,Giovanni Reyna,Attacking Midfield,19.0,United States,Borussia Dortmund,42.00,11,2,2,0,0,4,6,Bundesliga
+118,119,Martin Ødegaard,Attacking Midfield,23.0,Norway,Arsenal FC,42.00,31,6,4,3,0,4,13,Premier League
+119,120,Luke Shaw,Left-Back,26.0,England,Manchester United,42.00,27,1,5,10,0,1,6,Premier League
+120,121,Nuno Mendes,Left-Back,19.0,Portugal,Paris Saint-Germain,40.00,35,0,3,4,0,9,11,Ligue 1
+121,122,Yéremy Pino,Right Winger,19.0,Spain,Villarreal CF,40.00,39,10,7,6,0,12,24,LaLiga
+122,123,Edmond Tapsoba,Centre-Back,23.0,Burkina Faso,Bayer 04 Leverkusen,40.00,30,1,0,4,0,4,1,Bundesliga
+123,124,Darwin Núñez,Centre-Forward,22.0,Uruguay,SL Benfica,40.00,33,26,2,7,0,8,19,Liga Portugal
+124,125,Luis Díaz,Left Winger,25.0,Colombia,Liverpool FC,40.00,40,18,6,3,0,7,23,Premier League
+125,126,Ronald Araújo,Centre-Back,23.0,Uruguay,FC Barcelona,40.00,33,4,0,5,0,7,4,LaLiga
+126,127,Wesley Fofana,Centre-Back,21.0,France,Leicester City,40.00,1,1,0,0,0,0,1,Premier League
+127,128,Aurélien Tchouameni,Defensive Midfield,22.0,France,AS Monaco,40.00,43,4,2,9,0,2,6,Ligue 1
+128,129,Rodrygo,Right Winger,21.0,Brazil,Real Madrid,40.00,36,2,7,5,0,19,16,LaLiga
+129,130,Raphinha,Right Winger,25.0,Brazil,Leeds United,40.00,28,9,3,6,0,2,5,Premier League
+130,131,Sandro Tonali,Defensive Midfield,21.0,Italy,AC Milan,40.00,41,2,8,9,0,8,15,Serie A
+131,132,Kalvin Phillips,Defensive Midfield,26.0,England,Leeds United,40.00,15,1,1,2,0,0,2,Premier League
+132,133,Alexander Isak,Centre-Forward,22.0,Sweden,Real Sociedad,40.00,34,8,4,3,0,7,24,LaLiga
+133,134,Ben White,Centre-Back,24.0,England,Arsenal FC,40.00,32,0,0,1,0,0,2,Premier League
+134,135,Marco Asensio,Right Winger,26.0,Spain,Real Madrid,40.00,34,10,1,2,0,15,15,LaLiga
+135,136,Presnel Kimpembe,Centre-Back,26.0,France,Paris Saint-Germain,40.00,34,2,1,8,0,1,5,Ligue 1
+136,137,Rodrigo de Paul,Central Midfield,27.0,Argentina,Atlético de Madrid,40.00,37,2,2,7,0,11,14,LaLiga
+137,138,Patrik Schick,Centre-Forward,26.0,Czech Republic,Bayer 04 Leverkusen,40.00,24,20,3,0,0,3,17,Bundesliga
+138,139,Thomas Partey,Defensive Midfield,28.0,Ghana,Arsenal FC,40.00,29,2,3,6,0,2,7,Premier League
+139,140,Rúben Neves,Defensive Midfield,25.0,Portugal,Wolverhampton Wanderers,40.00,32,4,2,11,0,2,4,Premier League
+140,141,Gonçalo Guedes,Left Winger,25.0,Portugal,Valencia CF,40.00,35,13,6,2,0,4,18,LaLiga
+141,142,José Gayà,Left-Back,26.0,Spain,Valencia CF,40.00,23,2,4,6,0,1,7,LaLiga
+142,143,Paulo Dybala,Second Striker,28.0,Argentina,Juventus FC,40.00,29,13,6,3,0,6,13,Serie A
+143,144,Thomas Lemar,Attacking Midfield,26.0,France,Atlético de Madrid,40.00,29,4,6,2,0,8,16,LaLiga
+144,145,Gerard Moreno,Centre-Forward,29.0,Spain,Villarreal CF,40.00,21,12,4,3,0,5,5,LaLiga
+145,146,Riyad Mahrez,Right Winger,31.0,Algeria,Manchester City,40.00,39,22,7,0,0,12,7,Premier League
+146,147,Pierre-Emile Höjbjerg,Central Midfield,26.0,Denmark,Tottenham Hotspur,40.00,40,3,4,2,0,5,4,Premier League
+147,148,Marcelo Brozovic,Defensive Midfield,29.0,Croatia,Inter Milan,40.00,37,1,2,6,0,0,14,Serie A
+148,149,Wilfried Zaha,Left Winger,29.0,Cote d'Ivoire,Crystal Palace,40.00,32,10,3,4,0,4,3,Premier League
+149,150,Yannick Carrasco,Left Winger,28.0,Belgium,Atlético de Madrid,40.00,34,3,6,5,1,4,14,LaLiga
+150,151,Aaron Wan-Bissaka,Right-Back,24.0,England,Manchester United,38.00,24,0,0,2,1,1,1,Premier League
+151,152,Emile Smith Rowe,Attacking Midfield,21.0,England,Arsenal FC,38.00,30,11,2,0,0,9,11,Premier League
+152,153,Ben Chilwell,Left-Back,25.0,England,Chelsea FC,38.00,12,3,1,0,0,3,2,Premier League
+153,154,André Silva,Centre-Forward,26.0,Portugal,RB Leipzig,38.00,41,17,8,2,0,10,19,Bundesliga
+154,155,Roberto Firmino,Centre-Forward,30.0,Brazil,Liverpool FC,38.00,26,9,4,3,0,12,8,Premier League
+155,156,Antony,Right Winger,22.0,Brazil,Ajax Amsterdam,35.00,34,12,11,4,0,2,17,Eredivisie
+156,157,Karim Adeyemi,Centre-Forward,20.0,Germany,Red Bull Salzburg,35.00,36,19,4,5,0,4,28,Bundesliga
+157,158,Pedro Neto,Left Winger,22.0,Portugal,Wolverhampton Wanderers,35.00,5,0,0,0,0,4,1,Premier League
+158,159,Ryan Gravenberch,Central Midfield,19.0,Netherlands,Ajax Amsterdam,35.00,38,2,6,5,0,5,12,Eredivisie
+159,160,Tanguy Ndombélé,Central Midfield,25.0,France,Olympique Lyon,35.00,23,2,2,3,0,7,10,Ligue 1
+160,161,Douglas Luiz,Defensive Midfield,23.0,Brazil,Aston Villa,35.00,26,1,3,6,0,1,8,Premier League
+161,162,Lucas Paquetá,Attacking Midfield,24.0,Brazil,Olympique Lyon,35.00,34,9,5,4,0,6,11,Ligue 1
+162,163,Youssef En-Nesyri,Centre-Forward,24.0,Morocco,Sevilla FC,35.00,25,4,3,1,0,10,12,LaLiga
+163,164,Pedro Gonçalves,Right Winger,23.0,Portugal,Sporting CP,35.00,33,14,10,5,0,6,19,Liga Portugal
+164,165,Cristian Romero,Centre-Back,23.0,Argentina,Tottenham Hotspur,35.00,24,1,0,10,0,1,3,Premier League
+165,166,Ollie Watkins,Centre-Forward,26.0,England,Aston Villa,35.00,28,7,1,6,0,3,3,Premier League
+166,167,Emiliano Buendía,Right Winger,25.0,Argentina,Aston Villa,35.00,28,2,4,1,0,7,16,Premier League
+167,168,Hirving Lozano,Right Winger,26.0,Mexico,SSC Napoli,35.00,31,5,4,1,1,10,19,Serie A
+168,169,Scott McTominay,Defensive Midfield,25.0,Scotland,Manchester United,35.00,32,2,1,9,0,2,10,Premier League
+169,170,Jarrod Bowen,Right Winger,25.0,England,West Ham United,35.00,39,12,11,4,0,5,13,Premier League
+170,171,Robin Gosens,Left Midfield,27.0,Germany,Inter Milan,35.00,12,2,2,3,0,5,4,Serie A
+171,172,Manuel Locatelli,Defensive Midfield,24.0,Italy,Juventus FC,35.00,39,3,5,6,0,9,12,Serie A
+172,173,Hakim Ziyech,Attacking Midfield,29.0,Morocco,Chelsea FC,35.00,32,8,5,4,0,8,16,Premier League
+173,174,Nabil Fekir,Attacking Midfield,28.0,France,Real Betis Balompié,35.00,38,10,8,10,2,1,18,LaLiga
+174,175,Andreas Christensen,Centre-Back,25.0,Denmark,Chelsea FC,35.00,29,2,1,2,0,3,7,Premier League
+175,176,Domenico Berardi,Right Winger,27.0,Italy,US Sassuolo,35.00,29,14,14,8,0,0,15,Serie A
+176,177,Raphaël Guerreiro,Left-Back,28.0,Portugal,Borussia Dortmund,35.00,24,5,3,1,0,4,10,Bundesliga
+177,178,Niklas Süle,Centre-Back,26.0,Germany,Bayern Munich,35.00,33,1,2,3,0,7,7,Bundesliga
+178,179,Saúl Ñíguez,Central Midfield,27.0,Spain,Chelsea FC,35.00,23,1,1,3,0,10,5,Premier League
+179,180,Hakan Calhanoglu,Central Midfield,28.0,Turkey,Inter Milan,35.00,37,6,9,8,0,4,25,Serie A
+180,181,Stefan de Vrij,Centre-Back,30.0,Netherlands,Inter Milan,35.00,31,1,0,3,0,2,6,Serie A
+181,182,Antonio Rüdiger,Centre-Back,29.0,Germany,Chelsea FC,35.00,42,3,4,8,0,0,0,Premier League
+182,183,Koke,Central Midfield,30.0,Spain,Atlético de Madrid,35.00,33,1,2,6,0,2,11,LaLiga
+183,184,Ilkay Gündogan,Central Midfield,31.0,Germany,Manchester City,35.00,34,7,7,2,0,8,8,Premier League
+184,185,Cristiano Ronaldo,Centre-Forward,37.0,Portugal,Manchester United,35.00,35,19,3,7,0,4,9,Premier League
+185,186,Nicolò Zaniolo,Right Winger,22.0,Italy,AS Roma,33.00,33,4,8,11,1,5,19,Serie A
+186,187,Lisandro Martínez,Centre-Back,24.0,Argentina,Ajax Amsterdam,32.00,36,1,4,5,0,1,10,Eredivisie
+187,188,Edouard Mendy,Goalkeeper,30.0,Senegal,Chelsea FC,32.00,40,0,0,3,0,0,2,Premier League
+188,189,Harvey Barnes,Left Midfield,24.0,England,Leicester City,32.00,34,8,9,2,0,4,15,Premier League
+189,190,Callum Hudson-Odoi,Right Winger,21.0,England,Chelsea FC,32.00,28,3,6,2,0,6,16,Premier League
+190,191,Leon Bailey,Left Winger,24.0,Jamaica,Aston Villa,32.00,14,1,2,2,0,10,4,Premier League
+191,192,Kieran Tierney,Left-Back,24.0,Scotland,Arsenal FC,32.00,26,2,3,0,0,1,4,Premier League
+192,193,Allan Saint-Maximin,Left Winger,25.0,France,Newcastle United,32.00,28,5,3,4,0,5,6,Premier League
+193,194,Tyrone Mings,Centre-Back,29.0,England,Aston Villa,32.00,28,1,3,9,0,1,0,Premier League
+194,195,Ivan Toney,Centre-Forward,26.0,England,Brentford FC,32.00,29,13,3,6,0,3,0,Premier League
+195,196,James Ward-Prowse,Central Midfield,27.0,England,Southampton FC,32.00,33,7,7,3,1,1,2,Premier League
+196,197,Kurt Zouma,Centre-Back,27.0,France,West Ham United,32.00,24,1,0,2,0,0,2,Premier League
+197,198,Luis Alberto,Central Midfield,29.0,Spain,SS Lazio,32.00,37,4,8,7,0,9,15,Serie A
+198,199,Emiliano Martínez,Goalkeeper,29.0,Argentina,Aston Villa,32.00,29,0,0,4,0,0,0,Premier League
+199,200,Matheus Nunes,Central Midfield,23.0,Portugal,Sporting CP,30.00,45,4,5,8,0,7,17,Liga Portugal
+200,201,Bruno Guimarães,Defensive Midfield,24.0,Brazil,Newcastle United,30.00,34,1,6,3,0,9,10,Premier League
+201,202,Matheus Cunha,Centre-Forward,22.0,Brazil,Atlético de Madrid,30.00,28,8,4,4,0,20,8,LaLiga
+202,203,Bremer,Centre-Back,25.0,Brazil,Torino FC,30.00,27,3,1,6,0,0,3,Serie A
+203,204,Josko Gvardiol,Centre-Back,20.0,Croatia,RB Leipzig,30.00,37,2,3,5,0,5,6,Bundesliga
+204,205,Curtis Jones,Central Midfield,21.0,England,Liverpool FC,30.00,24,1,4,1,0,9,9,Premier League
+205,206,Dejan Kulusevski,Right Winger,21.0,Sweden,Tottenham Hotspur,30.00,39,4,7,3,0,23,10,Premier League
+206,207,Jurrien Timber,Centre-Back,20.0,Netherlands,Ajax Amsterdam,30.00,36,3,1,3,0,3,8,Eredivisie
+207,208,Houssem Aouar,Central Midfield,23.0,France,Olympique Lyon,30.00,34,5,3,1,0,8,9,Ligue 1
+208,209,Sven Botman,Centre-Back,22.0,Netherlands,LOSC Lille,30.00,31,4,1,3,0,0,2,Ligue 1
+209,210,Ibrahima Konaté,Centre-Back,22.0,France,Liverpool FC,30.00,19,0,1,4,0,3,0,Premier League
+210,211,André Zambo Anguissa,Defensive Midfield,26.0,Cameroon,SSC Napoli,30.00,32,0,1,7,0,7,7,Serie A
+211,212,Benjamin Pavard,Right-Back,26.0,France,Bayern Munich,30.00,28,0,2,1,1,2,5,Bundesliga
+212,213,Ismaël Bennacer,Defensive Midfield,24.0,Algeria,AC Milan,30.00,36,2,1,6,0,16,12,Serie A
+213,214,Robin Le Normand,Centre-Back,25.0,France,Real Sociedad,30.00,40,1,2,3,0,0,3,LaLiga
+214,215,Nicolas Pépé,Right Winger,26.0,Cote d'Ivoire,Arsenal FC,30.00,23,6,6,0,0,11,2,Premier League
+215,216,Davinson Sánchez,Centre-Back,25.0,Colombia,Tottenham Hotspur,30.00,27,2,0,5,0,5,0,Premier League
+216,217,Merih Demiral,Centre-Back,24.0,Turkey,Atalanta BC,30.00,33,2,2,10,0,2,8,Serie A
+217,218,Gianluca Scamacca,Centre-Forward,23.0,Italy,US Sassuolo,30.00,30,13,1,6,0,11,12,Serie A
+218,219,Naby Keïta,Central Midfield,27.0,Guinea,Liverpool FC,30.00,28,4,1,3,0,9,14,Premier League
+219,220,Ousmane Dembélé,Right Winger,24.0,France,FC Barcelona,30.00,21,2,9,1,0,11,6,LaLiga
+220,221,Manuel Akanji,Centre-Back,26.0,Switzerland,Borussia Dortmund,30.00,30,0,0,2,0,2,3,Bundesliga
+221,222,Angeliño,Left Midfield,25.0,Spain,RB Leipzig,30.00,34,2,11,3,0,2,5,Bundesliga
+222,223,Joan Jordán,Central Midfield,27.0,Spain,Sevilla FC,30.00,41,1,1,6,0,10,21,LaLiga
+223,224,Renato Sanches,Central Midfield,24.0,Portugal,LOSC Lille,30.00,25,1,5,4,0,4,12,Ligue 1
+224,225,Ruslan Malinovskyi,Attacking Midfield,28.0,Ukraine,Atalanta BC,30.00,34,10,4,7,0,9,21,Serie A
+225,226,John McGinn,Central Midfield,27.0,Scotland,Aston Villa,30.00,28,3,3,7,0,0,3,Premier League
+226,227,Lucas Ocampos,Left Winger,27.0,Argentina,Sevilla FC,30.00,34,8,4,11,0,6,11,LaLiga
+227,228,Sébastien Haller,Centre-Forward,27.0,Cote d'Ivoire,Ajax Amsterdam,30.00,40,34,10,6,0,1,13,Eredivisie
+228,229,Leander Dendoncker,Defensive Midfield,26.0,Belgium,Wolverhampton Wanderers,30.00,29,2,4,4,0,9,4,Premier League
+229,230,Álvaro Morata,Centre-Forward,29.0,Spain,Juventus FC,30.00,41,11,7,4,0,11,22,Serie A
+230,231,Lucas Digne,Left-Back,28.0,France,Aston Villa,30.00,23,1,1,5,0,1,2,Premier League
+231,232,Ciro Immobile,Centre-Forward,32.0,Italy,SS Lazio,30.00,35,26,4,4,0,1,11,Serie A
+232,233,Duván Zapata,Centre-Forward,30.0,Colombia,Atalanta BC,30.00,23,12,7,4,0,4,10,Serie A
+233,234,Gabriel Martinelli,Left Winger,20.0,Brazil,Arsenal FC,28.00,27,6,4,2,0,7,9,Premier League
+234,235,Benoît Badiashile,Centre-Back,21.0,France,AS Monaco,28.00,32,0,1,6,0,4,5,Ligue 1
+235,236,Dominik Szoboszlai,Left Winger,21.0,Hungary,RB Leipzig,28.00,33,8,7,2,0,16,12,Bundesliga
+236,237,Giacomo Raspadori,Centre-Forward,22.0,Italy,US Sassuolo,28.00,31,9,5,6,0,5,14,Serie A
+237,238,Nico Schlotterbeck,Centre-Back,22.0,Germany,SC Freiburg,28.00,30,4,0,4,0,0,4,Bundesliga
+238,239,Evan Ndicka,Centre-Back,22.0,France,Eintracht Frankfurt,28.00,33,3,3,4,0,1,0,Bundesliga
+239,240,Moise Kean,Centre-Forward,22.0,Italy,Juventus FC,28.00,34,5,2,3,1,21,12,Serie A
+240,241,Boubakary Soumaré,Defensive Midfield,23.0,France,Leicester City,28.00,29,0,1,2,0,12,8,Premier League
+241,242,Sergio Reguilón,Left-Back,25.0,Spain,Tottenham Hotspur,28.00,29,2,3,4,0,4,11,Premier League
+242,243,Timothy Castagne,Right-Back,26.0,Belgium,Leicester City,28.00,22,1,0,1,0,4,1,Premier League
+243,244,Mario Pasalic,Central Midfield,27.0,Croatia,Atalanta BC,28.00,38,10,9,5,0,13,20,Serie A
+244,245,Adama Traoré,Right Winger,26.0,Spain,FC Barcelona,28.00,33,1,4,0,0,15,13,LaLiga
+245,246,John Stones,Centre-Back,27.0,England,Manchester City,28.00,20,2,0,1,0,3,1,Premier League
+246,247,Anthony Martial,Centre-Forward,26.0,France,Sevilla FC,28.00,19,2,1,0,0,9,9,LaLiga
+247,248,Nathan Aké,Centre-Back,27.0,Netherlands,Manchester City,28.00,20,3,0,1,0,5,4,Premier League
+248,249,Andrea Belotti,Centre-Forward,28.0,Italy,Torino FC,28.00,16,4,1,0,0,5,9,Serie A
+249,250,Wissam Ben Yedder,Centre-Forward,31.0,France,AS Monaco,28.00,44,24,6,1,0,12,21,Ligue 1
+250,251,Mauro Icardi,Centre-Forward,29.0,Argentina,Paris Saint-Germain,28.00,29,5,0,1,0,16,5,Ligue 1
+251,252,Charles De Ketelaere,Attacking Midfield,21.0,Belgium,Club Brugge KV,27.00,44,17,9,6,0,1,14,Jupiler Pro League
+252,253,Ismaïla Sarr,Right Winger,24.0,Senegal,Watford FC,27.00,19,6,2,2,0,3,4,Premier League
+253,254,Denis Zakaria,Defensive Midfield,25.0,Switzerland,Juventus FC,27.00,24,3,1,5,0,3,3,Serie A
+254,255,Donyell Malen,Centre-Forward,23.0,Netherlands,Borussia Dortmund,27.00,38,8,6,1,0,11,22,Bundesliga
+255,256,Nikola Vlasic,Attacking Midfield,24.0,Croatia,West Ham United,27.00,34,1,3,0,0,16,16,Premier League
+256,257,Xaver Schlager,Central Midfield,24.0,Austria,VfL Wolfsburg,27.00,9,0,1,1,0,1,7,Bundesliga
+257,258,Matteo Politano,Right Winger,28.0,Italy,SSC Napoli,27.00,33,3,7,2,0,14,19,Serie A
+258,259,João Palhinha,Defensive Midfield,26.0,Portugal,Sporting CP,26.00,33,3,0,8,1,6,12,Liga Portugal
+259,260,Gabriel Barbosa,Centre-Forward,25.0,Brazil,Clube de Regatas do Flamengo,26.00,11,9,1,4,0,1,2,Other
+260,261,Joaquín Correa,Second Striker,27.0,Argentina,Inter Milan,26.00,25,4,1,3,0,17,8,Serie A
+261,262,Konrad Laimer,Central Midfield,24.0,Austria,RB Leipzig,26.00,31,3,3,2,0,11,18,Bundesliga
+262,263,Pedro Porro,Right-Back,22.0,Spain,Sporting CP,25.00,28,4,7,10,0,7,13,Liga Portugal
+263,264,Bryan Gil,Left Winger,21.0,Spain,Valencia CF,25.00,34,1,5,6,0,14,13,LaLiga
+264,265,Roger Ibañez,Centre-Back,23.0,Brazil,AS Roma,25.00,38,4,0,10,0,4,1,Serie A
+265,266,Renan Lodi,Left-Back,23.0,Brazil,Atlético de Madrid,25.00,33,4,4,3,0,19,10,LaLiga
+266,267,Emerson Royal,Right-Back,23.0,Brazil,Tottenham Hotspur,25.00,35,0,1,3,0,12,7,Premier League
+267,268,Nico González,Central Midfield,20.0,Spain,FC Barcelona,25.00,38,2,2,7,0,20,12,LaLiga
+268,269,Gabriel,Centre-Back,24.0,Brazil,Arsenal FC,25.00,29,3,0,4,0,1,2,Premier League
+269,270,Cody Gakpo,Left Winger,22.0,Netherlands,PSV Eindhoven,25.00,37,16,15,2,0,5,18,Eredivisie
+270,271,Aaron Ramsdale,Goalkeeper,23.0,England,Arsenal FC,25.00,29,0,0,1,0,0,0,Premier League
+271,272,Martín Zubimendi,Defensive Midfield,23.0,Spain,Real Sociedad,25.00,39,2,2,6,0,13,3,LaLiga
+272,273,Ezri Konsa,Centre-Back,24.0,England,Aston Villa,25.00,25,2,0,3,1,1,2,Premier League
+273,274,Yves Bissouma,Central Midfield,25.0,Mali,Brighton & Hove Albion,25.00,26,1,2,9,0,3,7,Premier League
+274,275,Boubacar Kamara,Defensive Midfield,22.0,France,Olympique Marseille,25.00,36,1,0,8,0,5,6,Ligue 1
+275,276,Teun Koopmeiners,Defensive Midfield,24.0,Netherlands,Atalanta BC,25.00,39,4,4,3,0,12,6,Serie A
+276,277,Rodrigo Bentancur,Central Midfield,24.0,Uruguay,Tottenham Hotspur,25.00,35,0,4,3,0,10,15,Premier League
+277,278,Nordi Mukiele,Right-Back,24.0,France,RB Leipzig,25.00,29,2,2,2,0,7,8,Bundesliga
+278,279,Ben Godfrey,Centre-Back,24.0,England,Everton FC,25.00,23,0,0,6,0,0,3,Premier League
+279,280,Guido Rodríguez,Defensive Midfield,27.0,Argentina,Real Betis Balompié,25.00,38,2,3,9,0,5,6,LaLiga
+280,281,Noa Lang,Left Winger,22.0,Netherlands,Club Brugge KV,25.00,40,8,13,10,1,5,16,Jupiler Pro League
+281,282,Weston McKennie,Central Midfield,23.0,United States,Juventus FC,25.00,28,4,0,1,0,7,7,Serie A
+282,283,Takehiro Tomiyasu,Right-Back,23.0,Japan,Arsenal FC,25.00,20,0,1,2,0,1,3,Premier League
+283,284,Saïd Benrahma,Left Winger,26.0,Algeria,West Ham United,25.00,41,9,6,0,0,14,20,Premier League
+284,285,Donny van de Beek,Central Midfield,24.0,Netherlands,Everton FC,25.00,20,1,0,2,0,11,4,Premier League
+285,286,Mario Hermoso,Centre-Back,26.0,Spain,Atlético de Madrid,25.00,32,2,1,6,1,5,11,LaLiga
+286,287,Viktor Tsygankov,Right Winger,24.0,Ukraine,Dynamo Kyiv,25.00,26,11,4,3,0,2,12,Premier Liga
+287,288,Aleksandr Golovin,Attacking Midfield,25.0,Russia,AS Monaco,25.00,31,3,6,6,1,16,12,Ligue 1
+288,289,Davide Calabria,Right-Back,25.0,Italy,AC Milan,25.00,25,2,3,2,0,3,6,Serie A
+289,290,Unai Simón,Goalkeeper,24.0,Spain,Athletic Bilbao,25.00,28,0,0,2,0,0,1,LaLiga
+290,291,Amir Rrahmani,Centre-Back,28.0,Kosovo,SSC Napoli,25.00,36,3,0,8,0,2,1,Serie A
+291,292,Gianluca Mancini,Centre-Back,25.0,Italy,AS Roma,25.00,36,1,0,17,0,0,5,Serie A
+292,293,Joe Gomez,Centre-Back,24.0,England,Liverpool FC,25.00,15,0,0,1,0,8,0,Premier League
+293,294,Iñaki Williams,Centre-Forward,27.0,Spain,Athletic Bilbao,25.00,35,7,3,4,0,6,11,LaLiga
+294,295,Rafa Silva,Right Midfield,28.0,Portugal,SL Benfica,25.00,43,12,17,6,0,9,19,Liga Portugal
+295,296,Nélson Semedo,Right-Back,28.0,Portugal,Wolverhampton Wanderers,25.00,29,1,1,1,0,2,6,Premier League
+296,297,Otávio,Right Midfield,27.0,Portugal,FC Porto,25.00,42,7,13,13,0,2,24,Liga Portugal
+297,298,Thilo Kehrer,Centre-Back,25.0,Germany,Paris Saint-Germain,25.00,29,2,0,3,0,10,5,Ligue 1
+298,299,Ricardo Pereira,Right-Back,28.0,Portugal,Leicester City,25.00,18,1,2,4,0,3,6,Premier League
+299,300,Dele Alli,Attacking Midfield,25.0,England,Everton FC,25.00,24,2,1,3,0,11,7,Premier League
+300,301,Oleksandr Zinchenko,Left-Back,25.0,Ukraine,Manchester City,25.00,20,0,2,2,0,6,1,Premier League
+301,302,Jonathan Tah,Centre-Back,26.0,Germany,Bayer 04 Leverkusen,25.00,36,2,3,4,0,1,2,Bundesliga
+302,303,Julian Brandt,Attacking Midfield,25.0,Germany,Borussia Dortmund,25.00,33,5,9,2,0,8,17,Bundesliga
+303,304,Mike Maignan,Goalkeeper,26.0,France,AC Milan,25.00,30,0,1,2,0,0,0,Serie A
+304,305,Sardar Azmoun,Centre-Forward,27.0,Iran,Bayer 04 Leverkusen,25.00,26,10,4,2,1,10,7,Bundesliga
+305,306,Giovanni Di Lorenzo,Right-Back,28.0,Italy,SSC Napoli,25.00,39,1,5,5,0,0,3,Serie A
+306,307,Iñigo Martínez,Centre-Back,30.0,Spain,Athletic Bilbao,25.00,28,4,0,8,1,1,1,LaLiga
+307,308,Lorenzo Insigne,Left Winger,30.0,Italy,SSC Napoli,25.00,30,9,7,1,0,3,24,Serie A
+308,309,Jordan Pickford,Goalkeeper,28.0,England,Everton FC,25.00,28,0,0,1,0,0,0,Premier League
+309,310,Conor Coady,Centre-Back,29.0,England,Wolverhampton Wanderers,25.00,35,3,0,2,0,1,2,Premier League
+310,311,Abdoulaye Doucouré,Central Midfield,29.0,Mali,Everton FC,25.00,24,2,4,4,0,2,1,Premier League
+311,312,Michael Keane,Centre-Back,29.0,England,Everton FC,25.00,31,2,2,1,0,1,2,Premier League
+312,313,Kyle Walker,Right-Back,31.0,England,Manchester City,25.00,27,1,2,3,1,0,3,Premier League
+313,314,Pablo Sarabia,Right Winger,29.0,Spain,Sporting CP,25.00,40,15,9,6,0,7,25,Liga Portugal
+314,315,Thomas Müller,Second Striker,32.0,Germany,Bayern Munich,25.00,38,12,22,0,0,2,19,Bundesliga
+315,316,Toni Kroos,Central Midfield,32.0,Germany,Real Madrid,25.00,32,3,3,5,0,2,12,LaLiga
+316,317,Karim Benzema,Centre-Forward,34.0,France,Real Madrid,25.00,34,32,13,0,0,0,12,LaLiga
+317,318,William Saliba,Centre-Back,21.0,France,Olympique Marseille,24.00,46,0,0,6,0,1,2,Ligue 1
+318,319,Vitinha,Central Midfield,22.0,Portugal,FC Porto,24.00,43,3,3,6,0,11,19,Liga Portugal
+319,320,Nicolás González,Left Winger,23.0,Argentina,ACF Fiorentina,24.00,29,3,8,0,0,9,10,Serie A
+320,321,Amadou Haidara,Central Midfield,24.0,Mali,RB Leipzig,24.00,32,4,1,2,0,12,11,Bundesliga
+321,322,Eljif Elmas,Attacking Midfield,22.0,North Macedonia,SSC Napoli,24.00,39,6,6,3,0,20,9,Serie A
+322,323,Victor Lindelöf,Centre-Back,27.0,Sweden,Manchester United,24.00,28,0,2,3,0,2,2,Premier League
+323,324,Remo Freuler,Central Midfield,29.0,Switzerland,Atalanta BC,24.00,36,2,6,5,0,2,8,Serie A
+324,325,Matthias Ginter,Centre-Back,28.0,Germany,Borussia Mönchengladbach,24.00,27,1,0,1,0,0,2,Bundesliga
+325,326,Julián Álvarez,Centre-Forward,22.0,Argentina,CA River Plate,23.00,7,5,0,0,0,0,2,Other
+326,327,Mohamed Camara,Defensive Midfield,22.0,Mali,Red Bull Salzburg,23.00,31,0,3,9,0,3,10,Bundesliga
+327,328,Nikola Milenkovic,Centre-Back,24.0,Serbia,ACF Fiorentina,23.00,31,4,0,7,0,1,3,Serie A
+328,329,Lukas Klostermann,Centre-Back,25.0,Germany,RB Leipzig,23.00,27,0,2,2,0,4,8,Bundesliga
+329,330,Nico Elvedi,Centre-Back,25.0,Switzerland,Borussia Mönchengladbach,23.00,26,1,1,2,0,0,1,Bundesliga
+330,331,Dwight McNeil,Left Winger,22.0,England,Burnley FC,22.00,29,0,1,2,0,1,5,Premier League
+331,332,Fábio Silva,Centre-Forward,19.0,Portugal,Wolverhampton Wanderers,22.00,28,3,6,3,0,15,10,Premier League
+332,333,Conor Gallagher,Central Midfield,22.0,England,Crystal Palace,22.00,35,9,7,10,0,1,7,Premier League
+333,334,Jérémy Doku,Right Winger,19.0,Belgium,Stade Rennais FC,22.00,16,2,2,2,0,9,7,Ligue 1
+334,335,Max Aarons,Right-Back,22.0,England,Norwich City,22.00,33,0,1,8,0,3,4,Premier League
+335,336,Mattéo Guendouzi,Central Midfield,22.0,France,Olympique Marseille,22.00,44,4,14,8,0,4,7,Ligue 1
+336,337,Matty Cash,Right-Back,24.0,Poland,Aston Villa,22.00,32,3,4,8,0,0,4,Premier League
+337,338,Francisco Trincão,Right Winger,22.0,Portugal,Wolverhampton Wanderers,22.00,25,2,1,0,0,11,13,Premier League
+338,339,Marc Guéhi,Centre-Back,21.0,England,Crystal Palace,22.00,39,5,0,4,0,1,0,Premier League
+339,340,Hamed Junior Traorè,Attacking Midfield,22.0,Cote d'Ivoire,US Sassuolo,22.00,26,5,4,3,0,9,16,Serie A
+340,341,Sasa Kalajdzic,Centre-Forward,24.0,Austria,VfB Stuttgart,22.00,10,3,2,1,0,3,0,Bundesliga
+341,342,Patson Daka,Centre-Forward,23.0,Zambia,Leicester City,22.00,28,10,4,1,0,11,13,Premier League
+342,343,Daichi Kamada,Attacking Midfield,25.0,Japan,Eintracht Frankfurt,22.00,34,7,2,0,0,6,16,Bundesliga
+343,344,Giovani Lo Celso,Central Midfield,25.0,Argentina,Villarreal CF,22.00,28,1,2,0,0,10,12,LaLiga
+344,345,Joe Willock,Central Midfield,22.0,England,Newcastle United,22.00,26,2,0,0,0,5,14,Premier League
+345,346,Jonathan Ikoné,Right Winger,23.0,France,ACF Fiorentina,22.00,37,2,4,5,0,16,19,Serie A
+346,347,Christoph Baumgartner,Attacking Midfield,22.0,Austria,TSG 1899 Hoffenheim,22.00,26,6,2,6,0,6,13,Bundesliga
+347,348,Malcom,Right Winger,25.0,Brazil,Zenit St. Petersburg,22.00,27,7,7,1,0,4,15,Premier Liga
+348,349,Brahim Díaz,Attacking Midfield,22.0,Spain,AC Milan,22.00,33,4,4,5,0,6,24,Serie A
+349,350,Demarai Gray,Left Winger,25.0,England,Everton FC,22.00,28,6,3,3,0,5,16,Premier League
+350,351,Florian Neuhaus,Central Midfield,25.0,Germany,Borussia Mönchengladbach,22.00,25,4,2,1,0,6,7,Bundesliga
+351,352,Joachim Andersen,Centre-Back,25.0,Denmark,Crystal Palace,22.00,30,0,1,3,0,2,1,Premier League
+352,353,Daniel Podence,Right Winger,26.0,Portugal,Wolverhampton Wanderers,22.00,28,6,3,2,0,10,13,Premier League
+353,354,Jan Bednarek,Centre-Back,25.0,Poland,Southampton FC,22.00,28,3,0,7,0,2,5,Premier League
+354,355,Abdou Diallo,Left-Back,25.0,Senegal,Paris Saint-Germain,22.00,23,1,1,3,0,2,3,Ligue 1
+355,356,Álex Remiro,Goalkeeper,27.0,Spain,Real Sociedad,22.00,33,0,0,1,0,0,0,LaLiga
+356,357,Raúl Jiménez,Centre-Forward,30.0,Mexico,Wolverhampton Wanderers,22.00,30,6,4,5,0,5,7,Premier League
+357,358,Julian Weigl,Defensive Midfield,26.0,Germany,SL Benfica,22.00,42,3,5,9,0,4,7,Liga Portugal
+358,359,Fred,Central Midfield,29.0,Brazil,Manchester United,22.00,31,3,6,8,0,4,11,Premier League
+359,360,Ante Rebic,Left Winger,28.0,Croatia,AC Milan,22.00,23,3,2,3,0,14,6,Serie A
+360,361,Eric Dier,Centre-Back,28.0,England,Tottenham Hotspur,22.00,31,0,0,1,0,1,1,Premier League
+361,362,James Tarkowski,Centre-Back,29.0,England,Burnley FC,22.00,27,1,2,9,0,0,0,Premier League
+362,363,Jordan Veretout,Central Midfield,29.0,France,AS Roma,22.00,39,4,9,7,0,8,21,Serie A
+363,364,Lewis Dunk,Centre-Back,30.0,England,Brighton & Hove Albion,22.00,22,1,0,1,1,1,0,Premier League
+364,365,Danny Ings,Centre-Forward,29.0,England,Aston Villa,22.00,24,5,5,2,0,5,12,Premier League
+365,366,Luis Muriel,Centre-Forward,30.0,Colombia,Atalanta BC,22.00,29,8,6,1,0,13,15,Serie A
+366,367,Marcel Sabitzer,Central Midfield,28.0,Austria,Bayern Munich,22.00,27,1,0,2,0,19,6,Bundesliga
+367,368,Kevin Volland,Second Striker,29.0,Germany,AS Monaco,22.00,43,12,9,9,0,6,26,Ligue 1
+368,369,Lucas Moura,Right Winger,29.0,Brazil,Tottenham Hotspur,22.00,37,6,6,3,0,13,17,Premier League
+369,370,Thiago,Central Midfield,30.0,Spain,Liverpool FC,22.00,24,2,2,1,0,10,12,Premier League
+370,371,Georginio Wijnaldum,Central Midfield,31.0,Netherlands,Paris Saint-Germain,22.00,31,3,3,2,0,11,13,Ligue 1
+371,372,Yussuf Poulsen,Centre-Forward,27.0,Denmark,RB Leipzig,21.00,29,6,3,3,0,15,11,Bundesliga
+372,373,Kamaldeen Sulemana,Left Winger,20.0,Ghana,Stade Rennais FC,20.00,30,5,2,4,0,12,17,Ligue 1
+373,374,Evanilson,Centre-Forward,22.0,Brazil,FC Porto,20.00,37,18,5,4,0,8,19,Liga Portugal
+374,375,Hugo Ekitike,Centre-Forward,19.0,France,Stade Reims,20.00,26,10,4,1,2,8,11,Ligue 1
+375,376,Odilon Kossounou,Centre-Back,21.0,Cote d'Ivoire,Bayer 04 Leverkusen,20.00,30,0,2,4,0,11,4,Bundesliga
+376,377,Rayan Cherki,Attacking Midfield,18.0,France,Olympique Lyon,20.00,29,8,5,3,0,16,9,Ligue 1
+377,378,Thiago Almada,Attacking Midfield,20.0,Argentina,Atlanta United FC,20.00,3,1,0,0,0,3,0,Other
+378,379,Sofiane Diop,Left Winger,21.0,France,AS Monaco,20.00,49,12,11,6,0,14,23,Ligue 1
+379,380,Pape Sarr,Defensive Midfield,19.0,Senegal,FC Metz,20.00,26,1,1,6,0,10,5,Other
+380,381,Illan Meslier,Goalkeeper,22.0,France,Leeds United,20.00,40,0,0,2,0,0,1,Premier League
+381,382,Enock Mwepu,Central Midfield,24.0,Zambia,Brighton & Hove Albion,20.00,16,2,5,1,0,5,7,Premier League
+382,383,Musa Barrow,Left Winger,23.0,The Gambia,Bologna FC 1909,20.00,33,7,7,0,0,8,16,Serie A
+383,384,Jeremie Frimpong,Right-Back,21.0,Netherlands,Bayer 04 Leverkusen,20.00,38,2,8,8,0,1,16,Bundesliga
+384,385,Juan Foyth,Right-Back,24.0,Argentina,Villarreal CF,20.00,27,0,0,4,0,2,6,LaLiga
+385,386,Eberechi Eze,Attacking Midfield,23.0,England,Crystal Palace,20.00,11,0,0,1,0,5,6,Premier League
+386,387,David Neres,Right Winger,25.0,Brazil,Shakhtar Donetsk,20.00,22,4,2,1,0,16,2,Premier Liga
+387,388,Maxence Lacroix,Centre-Back,21.0,France,VfL Wolfsburg,20.00,30,0,0,6,2,0,2,Bundesliga
+388,389,Oliver Skipp,Defensive Midfield,21.0,England,Tottenham Hotspur,20.00,32,0,0,7,0,7,8,Premier League
+389,390,Samuel Chukwueze,Right Winger,22.0,Nigeria,Villarreal CF,20.00,29,6,2,3,0,17,10,LaLiga
+390,391,Dodô,Right-Back,23.0,Brazil,Shakhtar Donetsk,20.00,26,0,4,2,0,1,1,Premier Liga
+391,392,Edson Álvarez,Defensive Midfield,24.0,Mexico,Ajax Amsterdam,20.00,34,2,1,8,0,0,14,Eredivisie
+392,393,Maxence Caqueret,Central Midfield,22.0,France,Olympique Lyon,20.00,44,1,1,7,0,6,9,Ligue 1
+393,394,Davide Frattesi,Central Midfield,22.0,Italy,US Sassuolo,20.00,31,4,3,4,0,3,22,Serie A
+394,395,Brenden Aaronson,Attacking Midfield,21.0,United States,Red Bull Salzburg,20.00,35,5,10,0,0,5,9,Bundesliga
+395,396,Alexis Saelemaekers,Right Winger,22.0,Belgium,AC Milan,20.00,40,2,3,4,0,16,16,Serie A
+396,397,Tetê,Right Winger,22.0,Brazil,Shakhtar Donetsk,20.00,28,10,2,4,0,8,14,Premier Liga
+397,398,Arthur,Central Midfield,25.0,Brazil,Juventus FC,20.00,26,0,1,3,0,12,7,Serie A
+398,399,Pablo Fornals,Attacking Midfield,26.0,Spain,West Ham United,20.00,42,6,4,4,0,12,16,Premier League
+399,400,Ché Adams,Centre-Forward,25.0,Scotland,Southampton FC,20.00,27,8,3,0,0,6,10,Premier League
+400,401,Noussair Mazraoui,Right-Back,24.0,Morocco,Ajax Amsterdam,20.00,31,5,4,3,0,1,12,Eredivisie
+401,402,Todd Cantwell,Left Midfield,24.0,England,AFC Bournemouth,20.00,19,1,0,4,0,5,7,Championship
+402,403,Ridle Baku,Right Midfield,23.0,Germany,VfL Wolfsburg,20.00,34,4,3,4,0,6,12,Bundesliga
+403,404,Denzel Dumfries,Right Midfield,25.0,Netherlands,Inter Milan,20.00,37,4,6,2,0,14,9,Serie A
+404,405,Marcus Thuram,Left Winger,24.0,France,Borussia Mönchengladbach,20.00,21,2,1,2,0,12,6,Bundesliga
+405,406,Lucas Torreira,Defensive Midfield,26.0,Uruguay,ACF Fiorentina,20.00,28,4,1,5,0,3,11,Serie A
+406,407,Kelechi Iheanacho,Centre-Forward,25.0,Nigeria,Leicester City,20.00,36,7,10,4,0,17,11,Premier League
+407,408,Borna Sosa,Left-Back,24.0,Croatia,VfB Stuttgart,20.00,24,2,8,3,0,0,2,Bundesliga
+408,409,Jonathan Bamba,Left Winger,26.0,France,LOSC Lille,20.00,31,1,3,5,0,2,17,Ligue 1
+409,410,Yerry Mina,Centre-Back,27.0,Colombia,Everton FC,20.00,11,1,0,2,0,3,2,Premier League
+410,411,Marc Cucurella,Left-Back,23.0,Spain,Brighton & Hove Albion,20.00,31,0,2,4,0,4,3,Premier League
+411,412,Kasper Dolberg,Centre-Forward,24.0,Denmark,OGC Nice,20.00,25,7,1,0,0,9,13,Ligue 1
+412,413,Paul Onuachu,Centre-Forward,27.0,Nigeria,KRC Genk,20.00,35,18,3,5,0,5,18,Jupiler Pro League
+413,414,Antonin Barak,Attacking Midfield,27.0,Czech Republic,Hellas Verona,20.00,29,11,4,3,0,3,8,Serie A
+414,415,Ricardo Horta,Left Winger,27.0,Portugal,SC Braga,20.00,40,19,8,5,0,2,7,Liga Portugal
+415,416,Gregor Kobel,Goalkeeper,24.0,Switzerland,Borussia Dortmund,20.00,38,0,0,0,0,0,1,Bundesliga
+416,417,Wilmar Barrios,Defensive Midfield,28.0,Colombia,Zenit St. Petersburg,20.00,28,0,1,6,0,3,5,Premier Liga
+417,418,Juan Musso,Goalkeeper,27.0,Argentina,Atalanta BC,20.00,37,0,0,1,1,0,0,Serie A
+418,419,Aritz Elustondo,Centre-Back,28.0,Spain,Real Sociedad,20.00,35,4,1,5,1,6,2,LaLiga
+419,420,Wout Weghorst,Centre-Forward,29.0,Netherlands,Burnley FC,20.00,33,8,3,5,0,1,8,Premier League
+420,421,André Gomes,Central Midfield,28.0,Portugal,Everton FC,20.00,17,1,2,6,0,8,5,Premier League
+421,422,Neal Maupay,Centre-Forward,25.0,France,Brighton & Hove Albion,20.00,30,9,2,6,0,5,4,Premier League
+422,423,Jérémie Boga,Left Winger,25.0,Cote d'Ivoire,Atalanta BC,20.00,24,2,4,0,0,12,9,Serie A
+423,424,Ruben Loftus-Cheek,Central Midfield,26.0,England,Chelsea FC,20.00,27,0,4,3,0,16,2,Premier League
+424,425,Bryan Cristante,Defensive Midfield,27.0,Italy,AS Roma,20.00,38,3,1,8,0,9,0,Serie A
+425,426,Alessio Romagnoli,Centre-Back,27.0,Italy,AC Milan,20.00,25,1,1,4,1,3,2,Serie A
+426,427,Alejandro Grimaldo,Left-Back,26.0,Spain,SL Benfica,20.00,42,6,8,6,0,2,12,Liga Portugal
+427,428,Héctor Bellerín,Right-Back,27.0,Spain,Real Betis Balompié,20.00,27,0,4,2,1,2,2,LaLiga
+428,429,Patrick Bamford,Centre-Forward,28.0,England,Leeds United,20.00,11,2,3,1,0,3,3,Premier League
+429,430,Seko Fofana,Central Midfield,26.0,Cote d'Ivoire,RC Lens,20.00,32,9,1,2,0,0,6,Ligue 1
+430,431,Leandro Paredes,Defensive Midfield,27.0,Argentina,Paris Saint-Germain,20.00,21,1,2,6,0,7,9,Ligue 1
+431,432,Berat Djimsiti,Centre-Back,29.0,Albania,Atalanta BC,20.00,34,2,1,6,0,8,6,Serie A
+432,433,Raúl de Tomás,Centre-Forward,27.0,Spain,RCD Espanyol Barcelona,20.00,29,14,3,4,1,0,10,LaLiga
+433,434,Filip Kostic,Left Midfield,29.0,Serbia,Eintracht Frankfurt,20.00,32,4,12,2,0,2,4,Bundesliga
+434,435,Jesse Lingard,Attacking Midfield,29.0,England,Manchester United,20.00,19,2,1,1,0,16,3,Premier League
+435,436,Marten de Roon,Defensive Midfield,31.0,Netherlands,Atalanta BC,20.00,34,1,1,7,0,3,4,Serie A
+436,437,Bertrand Traoré,Right Winger,26.0,Burkina Faso,Aston Villa,20.00,13,1,2,0,0,6,5,Premier League
+437,438,Callum Wilson,Centre-Forward,30.0,England,Newcastle United,20.00,15,6,0,4,0,1,4,Premier League
+438,439,Leonardo Spinazzola,Left-Back,29.0,Italy,AS Roma,20.00,0,0,0,0,0,0,0,Serie A
+439,440,Erik Lamela,Right Winger,30.0,Argentina,Sevilla FC,20.00,17,4,2,5,0,12,3,LaLiga
+440,441,Granit Xhaka,Defensive Midfield,29.0,Switzerland,Arsenal FC,20.00,21,0,1,6,1,1,3,Premier League
+441,442,Stefan Savic,Centre-Back,31.0,Montenegro,Atlético de Madrid,20.00,24,0,0,8,0,0,2,LaLiga
+442,443,Thorgan Hazard,Left Winger,29.0,Belgium,Borussia Dortmund,20.00,29,6,2,1,0,12,11,Bundesliga
+443,444,Alexandre Lacazette,Centre-Forward,30.0,France,Arsenal FC,20.00,29,6,8,1,0,8,15,Premier League
+444,445,Julian Draxler,Left Winger,28.0,Germany,Paris Saint-Germain,20.00,25,2,2,1,0,16,6,Ligue 1
+445,446,Sergio Canales,Attacking Midfield,31.0,Spain,Real Betis Balompié,20.00,39,7,10,6,0,6,16,LaLiga
+446,447,Adam Hlozek,Second Striker,19.0,Czech Republic,AC Sparta Prague,19.00,40,9,13,3,0,2,11,Other
+447,448,Wendel,Central Midfield,24.0,Brazil,Zenit St. Petersburg,19.00,29,4,4,4,0,0,16,Premier Liga
+448,449,Danilo,Defensive Midfield,20.0,Brazil,Sociedade Esportiva Palmeiras,18.00,10,1,0,1,0,1,1,Other
+449,450,Mohamed Simakan,Centre-Back,21.0,France,RB Leipzig,18.00,33,1,1,7,0,6,10,Bundesliga
+450,451,Jean-Clair Todibo,Centre-Back,22.0,France,OGC Nice,18.00,30,1,0,6,0,1,1,Ligue 1
+451,452,Michael Olise,Right Midfield,20.0,France,Crystal Palace,18.00,28,4,9,3,0,13,10,Premier League
+452,453,Gonçalo Inácio,Centre-Back,20.0,Portugal,Sporting CP,18.00,39,5,2,1,0,1,3,Liga Portugal
+453,454,Amad Diallo,Right Winger,19.0,Cote d'Ivoire,Rangers FC,18.00,9,3,1,0,0,3,4,Premiership
+454,455,Luis Sinisterra,Left Winger,22.0,Colombia,Feyenoord Rotterdam,18.00,38,18,11,1,0,1,19,Eredivisie
+455,456,Tariq Lamptey,Right-Back,21.0,England,Brighton & Hove Albion,18.00,24,0,2,2,0,9,9,Premier League
+456,457,Noni Madueke,Right Winger,20.0,England,PSV Eindhoven,18.00,31,9,5,0,0,6,26,Eredivisie
+457,458,Tino Livramento,Right-Back,19.0,England,Southampton FC,18.00,31,1,4,2,0,5,2,Premier League
+458,459,Eric García,Centre-Back,21.0,Spain,FC Barcelona,18.00,29,0,0,6,1,3,6,LaLiga
+459,460,Luiz Felipe,Centre-Back,25.0,Italy,SS Lazio,18.00,36,0,1,12,1,0,4,Serie A
+460,461,Caio Henrique,Left-Back,24.0,Brazil,AS Monaco,18.00,40,1,10,4,0,4,15,Ligue 1
+461,462,Manor Solomon,Left Winger,22.0,Israel,Shakhtar Donetsk,18.00,27,4,2,1,0,10,12,Premier Liga
+462,463,Lovro Majer,Attacking Midfield,24.0,Croatia,Stade Rennais FC,18.00,41,8,13,1,0,12,22,Ligue 1
+463,464,Yangel Herrera,Central Midfield,24.0,Venezuela,RCD Espanyol Barcelona,18.00,16,1,1,3,0,4,6,LaLiga
+464,465,Marash Kumbulla,Centre-Back,22.0,Albania,AS Roma,18.00,23,1,0,7,0,6,3,Serie A
+465,466,Sergiño Dest,Right-Back,21.0,United States,FC Barcelona,18.00,27,0,3,2,0,6,8,LaLiga
+466,467,Mason Holgate,Centre-Back,25.0,England,Everton FC,18.00,20,1,0,3,1,2,0,Premier League
+467,468,Trevoh Chalobah,Centre-Back,22.0,England,Chelsea FC,18.00,26,4,1,3,0,6,4,Premier League
+468,469,Gerson,Central Midfield,24.0,Brazil,Olympique Marseille,18.00,36,5,7,4,0,8,13,Ligue 1
+469,470,Cengiz Ünder,Right Winger,24.0,Turkey,Olympique Marseille,18.00,37,11,5,1,0,7,12,Ligue 1
+470,471,Kyle Walker-Peters,Right-Back,24.0,England,Southampton FC,18.00,29,2,4,5,0,4,3,Premier League
+471,472,Umar Sadiq,Centre-Forward,25.0,Nigeria,UD Almería,18.00,33,17,10,5,0,6,13,Other
+472,473,Sander Berge,Defensive Midfield,24.0,Norway,Sheffield United,18.00,25,4,1,2,0,8,5,Championship
+473,474,Matteo Pessina,Attacking Midfield,24.0,Italy,Atalanta BC,18.00,30,2,1,0,0,9,18,Serie A
+474,475,Éverton,Left Midfield,26.0,Brazil,SL Benfica,18.00,40,7,7,6,0,13,20,Liga Portugal
+475,476,Daniel James,Left Winger,24.0,Wales,Leeds United,18.00,32,4,4,6,0,2,11,Premier League
+476,477,Lukas Nmecha,Centre-Forward,23.0,Germany,VfL Wolfsburg,18.00,25,8,0,5,0,10,6,Bundesliga
+477,478,Tom Davies,Central Midfield,23.0,England,Everton FC,18.00,7,1,1,0,0,4,1,Premier League
+478,479,Brais Méndez,Right Winger,25.0,Spain,Celta de Vigo,18.00,31,5,5,7,0,4,11,LaLiga
+479,480,Moussa Niakhaté,Centre-Back,26.0,France,1.FSV Mainz 05,18.00,25,3,0,2,0,2,1,Bundesliga
+480,481,Steven Bergwijn,Left Winger,24.0,Netherlands,Tottenham Hotspur,18.00,26,5,2,2,0,17,7,Premier League
+481,482,Mattia Zaccagni,Attacking Midfield,26.0,Italy,SS Lazio,18.00,31,7,7,8,0,8,11,Serie A
+482,483,David Raya,Goalkeeper,26.0,Spain,Brentford FC,18.00,18,0,0,0,0,0,0,Premier League
+483,484,Dean Henderson,Goalkeeper,25.0,England,Manchester United,18.00,5,0,0,0,0,0,1,Premier League
+484,485,Luka Jovic,Centre-Forward,24.0,Serbia,Real Madrid,18.00,20,3,2,1,0,16,3,LaLiga
+485,486,Gelson Martins,Right Winger,26.0,Portugal,AS Monaco,18.00,43,5,3,2,0,11,30,Ligue 1
+486,487,Alex Telles,Left-Back,29.0,Brazil,Manchester United,18.00,18,1,2,2,0,3,3,Premier League
+487,488,Enes Ünal,Centre-Forward,24.0,Turkey,Getafe CF,18.00,29,14,0,7,0,5,17,LaLiga
+488,489,Zeki Celik,Right-Back,25.0,Turkey,LOSC Lille,18.00,32,2,1,10,0,2,4,Ligue 1
+489,490,Adam Armstrong,Centre-Forward,25.0,England,Southampton FC,18.00,25,2,3,1,0,7,7,Premier League
+490,491,Diego Llorente,Centre-Back,28.0,Spain,Leeds United,18.00,24,2,0,6,0,0,6,Premier League
+491,492,Alex Iwobi,Left Winger,25.0,Nigeria,Everton FC,18.00,25,3,2,1,1,11,7,Premier League
+492,493,Adam Webster,Centre-Back,27.0,England,Brighton & Hove Albion,18.00,17,3,0,4,0,1,3,Premier League
+493,494,Ben Davies,Left-Back,28.0,Wales,Tottenham Hotspur,18.00,36,0,2,4,0,3,2,Premier League
+494,495,Mahmoud Dahoud,Central Midfield,26.0,Germany,Borussia Dortmund,18.00,28,2,7,6,0,2,8,Bundesliga
+495,496,Adrien Rabiot,Central Midfield,26.0,France,Juventus FC,18.00,37,0,2,5,0,7,10,Serie A
+496,497,Gaëtan Laborde,Centre-Forward,27.0,France,Stade Rennais FC,18.00,38,19,7,4,0,2,17,Ligue 1
+497,498,Alex Oxlade-Chamberlain,Central Midfield,28.0,England,Liverpool FC,18.00,29,3,2,0,0,12,13,Premier League
+498,499,Daniel Carvajal,Right-Back,30.0,Spain,Real Madrid,18.00,27,1,2,2,0,4,14,LaLiga
+499,500,João Pedro,Second Striker,30.0,Italy,Cagliari Calcio,18.00,32,10,4,8,0,2,2,Serie A
