@@ -18,3 +18,14 @@
     + 탑클래스 선수들 소속팀 / 리그 / 국적 / 나이 / 포지션 구성이 어떻게 될까?
 ![이미지](https://github.com/obilige/Side/blob/master/FP_value/image/3.jpg)
 ![이미지](https://github.com/obilige/Side/blob/master/FP_value/image/4.jpg)
+
+# ML Analysis
+- GridSearchCV로 최적의 파라미터 찾고 ML로 분석
+- LinearRegression, Ridge, Lasso, XGBRegressor, LGBMRegressor 등
+- 설명력 : 훈련(약 60%), 테스트(20%)
+
+# Mission
+- Machine Learning 분석이 안되는 이유
+    + 데이터 수가 500개로 훈련하기에 충분하지 않습니다.
+    + 이적료엔 직전 시즌 이적, 스타성 등 다양한 변수가 있습니다. 더 다양한 데이터 칼럼이 필요합니다.
+    + 유료로 축구선수 데이터를 얻을 수 있는 사이트에서 데이터를 확보하면 머신러닝 예측모델을 만들 수 있을 것으로 보입니다.
