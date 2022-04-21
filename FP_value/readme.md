@@ -16,5 +16,5 @@
 - 예상 이적료를 Boxplot으로 그려 월드클래스 선수 몸값 파악해보기
     + 가정 : 500명의 탑클래스 선수들 사이에서도 이상치로 판단되는 이적료를 가진 선수는 월드클래스라 가정
     + 탑클래스 선수들 소속팀 / 리그 / 국적 / 나이 / 포지션 구성이 어떻게 될까?
-![이미지](https://github.com/obilige/Side/blob/master/FP_value/image/3.png)
-![이미지](https://github.com/obilige/Side/blob/master/FP_value/image/4.png)
+![이미지](https://github.com/obilige/Side/blob/master/FP_value/image/3.jpeg)
+![이미지](https://github.com/obilige/Side/blob/master/FP_value/image/4.jpeg)
